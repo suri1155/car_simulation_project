@@ -1,7 +1,7 @@
 # Auto Driving Car Simulation
 
 _Prerequisite_
-- Install requirements
+_Install requirements_
 ```bash
 pip install -r requirements.txt
 ```
