@@ -1,0 +1,2 @@
+[coverage:run]
+omit = car_simulation/cli.py
